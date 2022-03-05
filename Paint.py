@@ -1,6 +1,3 @@
-from cgitb import text
-from distutils import command
-from fileinput import filename
 from tkinter import *
 from tkinter import font
 from tkinter import messagebox
